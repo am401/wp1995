@@ -39,3 +39,12 @@ article.post:last-of-type {
 .site-footer {
     border-top: 3px solid #ecf0f1;
 }
+
+pre {
+	font-family: monospace;
+	font-size 16px;
+	padding: 10px;
+	background: #262c3a;
+	color: white;
+	border-radius: 5px;
+}
