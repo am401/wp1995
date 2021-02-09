@@ -1,4 +1,13 @@
 # Changelog
+## [ 0.0.2 ] - 2021 - 02 - 08
+### Added
+- Theme name within the footer by blogname
+- Disabled search function via `functions.php`
+### Changed
+- Changed color scheme for links within `style.css`
+## [ 0.0.2 ] - 2021 - 02 - 07
+### Added
+- pre styling in `style.css`
 ## [ 0.0.1 ] - 2021 - 01 - 28
 ### Added
 - `single.php` to improve readability of single posts/pages

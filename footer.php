@@ -1,5 +1,5 @@
 <footer class="site-footer">
-    <p><?php bloginfo( 'name' ) ?></p>
+    <p><?php bloginfo( 'name' ) ?> - <i>theme: wp1995</i></p>
 </footer>
 </div>
 

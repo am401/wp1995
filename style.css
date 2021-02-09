@@ -12,7 +12,7 @@ body {
 }
  
 a:link, a:visited {
-    color: #4285f4;
+    color: #00769d;
 }
  
 p {
@@ -25,7 +25,7 @@ div.container {
 }
  
 article.post {
-    border-bottom: 4px dashed #ecf0f1;
+    border-bottom: 4px dashed #001d27;
 }
  
 article.post:last-of-type {
@@ -33,11 +33,12 @@ article.post:last-of-type {
 }
  
 .site-header {
-    border-bottom: 3px solid #ecf0f1;
+    /*border-bottom: 3px solid #ed7117;*/
+    border-bottom: 3px solid #001d27;
 }
  
 .site-footer {
-    border-top: 3px solid #ecf0f1;
+    border-top: 3px solid #001d27;
 }
 
 pre {
