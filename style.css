@@ -49,3 +49,29 @@ pre {
 	color: white;
 	border-radius: 5px;
 }
+
+.nav {
+	width: 100%;
+}
+
+.header {
+	background-color: #ed7117;
+	display: flex;
+	align-items: center;
+}
+
+.navigation-menu {
+	a {
+		color: #001d27;
+		text-decoration: none;
+		display: block;
+		white-space: nowrap;
+		padding: 10px 15px;
+	}
+	a:hover {
+		color: #fff;
+	}
+	ul {
+		background-ocolor: #ed7117;
+	}
+}

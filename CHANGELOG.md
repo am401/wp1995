@@ -1,6 +1,7 @@
 # Changelog
 ## [ 0.0.2 ] - 2021 - 02 - 09
 ### Added
+- Started work on styling the menu added in this change
 - Updated `functions.php` and `header.php` to include menu
 ## [ 0.0.2 ] - 2021 - 02 - 08
 ### Added

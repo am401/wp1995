@@ -12,5 +12,10 @@
     <header class="site-header">
         <h1><a href="<?php echo home_url(); ?>"><?php bloginfo( 'name' ); ?></a></h1>
         <h4><?php bloginfo( 'description' ); ?></h4>
-		<?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
+		<?php wp_nav_menu( array( 
+				'theme_location' => 'header-menu',
+          		'container'      => '',
+          		'menu_class'     => 'navigation-main',
+		) ); ?>
+
     </header>
