@@ -29,3 +29,14 @@ function fb_filter_query( $query, $error = true ) {
  
 add_action( 'parse_query', 'fb_filter_query' );
 add_filter( 'get_search_form', create_function( '$a', "return null;" ) );
+
+// Add menus
+function register_my_menus() {
+  register_nav_menus(
+    array(
+      'header-menu' => __( 'Header Menu' ),
+      'extra-menu' => __( 'Extra Menu' )
+     )
+   );
+ }
+ add_action( 'init', 'register_my_menus' );

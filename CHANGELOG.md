@@ -1,4 +1,7 @@
 # Changelog
+## [ 0.0.2 ] - 2021 - 02 - 09
+### Added
+- Updated `functions.php` and `header.php` to include menu
 ## [ 0.0.2 ] - 2021 - 02 - 08
 ### Added
 - Theme name within the footer by blogname
